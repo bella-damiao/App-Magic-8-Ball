@@ -1,27 +1,18 @@
-# 🎱 App - Magic 8-Ball
+![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-With this app, get mysterious and fun answers to all your questions with a simple tap of a button. Let destiny guide your decisions!
+# Magic 8 Ball
 
-### 👩‍💻 Technologies and Concepts used: 
+## Our Goal
 
-- Swift Programming Language
-- UIKit Framework
-- Interface Builder and Storyboards
-- Outlets and Actions
-- Functions
-- Variables
-- Random Method
+The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
 
-# 🎱 App - Magic 8-Ball
+## What you will create
 
-Com este aplicativo, obtenha respostas misteriosas e divertidas para todas as suas perguntas com um simples toque em um botão. Deixe o destino guiar suas decisões!
+We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
 
-### 👩‍💻 Tecnologias e Conceitos usados: 
 
-- Linguagem de Programação Swift
-- Framework UIKit
-- Interface Builder e Storyboards
-- Outlets e Actions
-- Funções
-- Variáveis
-- Método Random
+
+>This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+
+![End Banner](Documentation/readme-end-banner.png)
+
