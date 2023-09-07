@@ -1,4 +1,4 @@
-## Project by Ângela Yu
+## Project Idea by Ângela Yu
 
 # 🎱 App - Magic 8-Ball
 
@@ -13,6 +13,8 @@ With this app, get mysterious and fun answers to all your questions with a simpl
 - Functions
 - Variables
 - Random Method
+
+***
 
 # 🎱 App - Magic 8-Ball
 
